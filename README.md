@@ -1,2 +1,2 @@
 # dlozcru0801.github.io
-Esto va a sser mi pagina web 
+Esto va a ser la pagina web de dlozcru0801
