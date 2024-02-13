@@ -1,12 +1,15 @@
 .h1 {
-    color:brown;
+    color:beige;
 }
 
 div {
-    color:black
+    color:aliceblue
 }
 
 body {
-    background-color:blanchedalmond
+    background-color:darkslategray
 }
-   
+
+body{
+    color:aliceblue
+}
